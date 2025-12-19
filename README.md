@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { StarField } from './components/StarField';
 import { Confetti } from './components/Confetti';
