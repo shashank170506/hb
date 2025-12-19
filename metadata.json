@@ -1,0 +1,8 @@
+
+{
+  "name": "Papa's 50th Birthday Celebration",
+  "description": "A heartfelt, interactive 50th birthday website for Papa featuring a twinkling night sky, floating balloons, and a typewriter animation of emotional messages.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
